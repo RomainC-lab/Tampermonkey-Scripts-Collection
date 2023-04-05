@@ -6,6 +6,8 @@
 // @author       RomainC-lab
 // @match        *://www.bing.com/*
 // @grant        none
+// @icon         https://raw.githubusercontent.com/RomainC-lab/Tampermonkey-Scripts-Collection/master/remove-char-limit-bing-chat.user.png
+
 // ==/UserScript==
 
 (function () {

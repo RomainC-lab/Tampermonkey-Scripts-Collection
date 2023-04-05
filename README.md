@@ -7,6 +7,8 @@ Scripts Included
 
 ### Unlock Unlimited Characters on Bing Chat
 
+<img src="remove-char-limit-bing-chat.user.png" alt="Unlock Unlimited Characters on Bing Chat" width="100"/>
+
 **Filename**: remove-char-limit-bing-chat.user.js
 
 **Description**: This Tampermonkey script enhances your search experience on Bing Chat by removing the character limit from the search input.
