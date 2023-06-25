@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove Char Limit for Bing Chat AI
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  This Tampermonkey script enhances your search experience on Bing Chat by removing the character limit from the search input. Enjoy unrestricted search queries and explore endless possibilities with ease, as the script displays an infinity symbol (∞) in place of the character counter.
 // @author       RomainC-lab
 // @match        *://www.bing.com/*
