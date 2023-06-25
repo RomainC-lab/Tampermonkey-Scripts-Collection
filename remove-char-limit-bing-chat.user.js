@@ -49,8 +49,13 @@
 			"cib-action-bar"
 		);
 		const actionBarShadowRoot = actionBar.shadowRoot;
-		const textarea = await waitForElement(
+		const serpTextInput = await waitForElement(
 			actionBarShadowRoot,
+			"cib-text-input[serp-slot='none']"
+		);
+	        const serpTextInputShadowRoot = serpTextInput.shadowRoot;
+		const textarea = await waitForElement(
+			serpTextInputShadowRoot,
 			"textarea[maxlength]"
 		);
 		textarea.removeAttribute("maxlength");
